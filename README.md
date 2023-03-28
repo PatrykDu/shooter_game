@@ -8,7 +8,7 @@
 ```bash
 $ python mainGame.py
 ```
-###or 
+### or
 just change the branch to `exe`
 ```bash
 $ git checkout exe
