@@ -8,3 +8,4 @@
 ```bash
 $ python mainGame.py
 ```
+or just change the branch to `exe` and click on the exe file
